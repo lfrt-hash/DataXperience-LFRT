@@ -21,5 +21,6 @@ Los pasos que incluye son:
 . Modelado de datos.
 
 . Reflexion y respuesta a preguntas principales.
+
 . Conclusiones.
 
