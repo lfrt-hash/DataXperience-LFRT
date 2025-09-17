@@ -1,7 +1,7 @@
 # DataXperience-LFRT
 En este proyecto se realiza un analisis de datos a un conjunto que explora la situación de los medicamentos vitales no disponibles en Colombia a lo largo de los ultimos años.
 Los pasos que incluye son:
-. Introducción y preguntas principales.
+/n. Introducción y preguntas principales.
 . La carga y revision de datos.
 . limpieza (duplicados, transformar datos, datos nulos)
 . Calcular e interpretar medidas de tendencia central (media, mediana, moda).
